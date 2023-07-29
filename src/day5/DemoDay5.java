@@ -9,4 +9,9 @@ public void getData(){
 	System.out.println("Data...");
 		}
 
+
+public void getInfo() {
+	System.out.println("Info...");
+}
+
 }
