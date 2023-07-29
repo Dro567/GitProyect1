@@ -5,4 +5,9 @@ public static void main(String[] args) {
 	
 	System.out.println("Alejandro");
 }
+
+String country = "USA";
+String state = "VA";
+
+
 }
